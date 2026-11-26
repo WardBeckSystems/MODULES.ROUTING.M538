@@ -34,7 +34,7 @@ Wiki page: [M538](../../../../PAGES/M538.md)
 - **Words (OCR):** 65 in 55 lines: 485 · 538-03-057/1 · ~242 · 5.638 · 5.876 · -485 · o86DIA · C'PORE · 125 DIA · 2 PACES TYP · -SEE · EETAIL A
 - **Title block:** (120, 13)–(429, 83) mm: SiZE INcREASED · Geb · 2489 · TFLAE IDENT · ISSUE DATE · REVISION · APP · EDGES · Buees SHAPP · WBS WARD-BECK · SYSTEMS · DRN: BDE · M538 · Mew · ENG · IDENT COVER · CKD: · APP · SCALE · 03-007 · ISSU
 
-Every curve, box, word and wire group: [1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).json](../MECHANICAL/1985%20-%20538-03-007%20-%20IDENT%20COVER%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).json](../MECHANICAL/1985%20-%20538-03-007%20-%20IDENT%20COVER%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

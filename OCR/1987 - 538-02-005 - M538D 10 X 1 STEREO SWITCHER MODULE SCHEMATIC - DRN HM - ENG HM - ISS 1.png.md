@@ -37,7 +37,7 @@ Wiki page: [M538](../../../../PAGES/M538.md)
 - **Title block:** (353, 22)–(432, 40) mm: WBS WANO-Beck ayateme · M638D
 - **Wiring (first pass):** 155 connected wire groups from 676 runs, 2 dotted junctions; labelled ends: 172 mm → ER, JPUTS, IOL; 169 mm → JPUTS; 94 mm → 23 3132; 64 mm → 23 3132; 63 mm → 23-2927 23
 
-Every curve, box, word and wire group: [1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20538-02-005%20-%20M538D%2010%20X%201%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20538-02-005%20-%20M538D%2010%20X%201%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).dxf`).
 
 ## Full text
 

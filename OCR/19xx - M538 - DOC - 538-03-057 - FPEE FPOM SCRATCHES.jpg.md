@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 65 in 55 lines: 485 · 538-03-057/1 · ~242 · 5.638 · 5-876 · -485 · o86DIA · C'PORE · 125 DIA · 2 PACES TYP · -SEE · EETAIL A
 - **Title block:** (120, 13)–(429, 83) mm: SIZE INcREASED · Geb · 2489 · FFLAE IDENT · ISSUE DATE · REVISION · APP · EDGES · Buees SHAPP · WBS WARD-BECK · SYSTEMS · DRN: BDE · M538 · Mew · ENG · IDENT COVER · CKD: · APP · SCALE · 03-007 · ISSU
 
-Every curve, box, word and wire group: [19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES (traced).json](../MECHANICAL/19xx%20-%20M538%20-%20DOC%20-%20538-03-057%20-%20FPEE%20FPOM%20SCRATCHES%20(traced).json) (the CAD file: `19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES (traced).json](../MECHANICAL/19xx%20-%20M538%20-%20DOC%20-%20538-03-057%20-%20FPEE%20FPOM%20SCRATCHES%20%28traced%29.json) (the CAD file: `19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES (traced).dxf`).
 
 ## Full text
 

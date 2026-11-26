@@ -21,7 +21,7 @@ Wiki page: [M538](../../../../PAGES/M538.md)
 - **Closed boxes:** 10
 - **Wiring (first pass):** 98 connected wire groups from 309 runs
 
-Every curve, box, word and wire group: [1985 - M538 - B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M538%20-%20B%20538-01-002%20-%204X2%20SWITCHER%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1985 - M538 - B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M538 - B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M538%20-%20B%20538-01-002%20-%204X2%20SWITCHER%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1985 - M538 - B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ M538 switcher module layout with front panel callouts.
 - **Words (OCR):** 9 in 8 lines: WBS · 14-.27 · WBS WARD-Beck BYSTEMB · M538A/B/C · Switcher MODULES · MODULE LAYOUT · B 538-04-001 · ISS.1
 - **Title block:** (49, 35)–(425, 135) mm: WBS · 14-.27 · WBS WARD-Beck BYSTEMB
 
-Every curve, box, word and wire group: [19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20538-04-001%20-%20SWITCHER%20MODULES%20MODULE%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20538-04-001%20-%20SWITCHER%20MODULES%20MODULE%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

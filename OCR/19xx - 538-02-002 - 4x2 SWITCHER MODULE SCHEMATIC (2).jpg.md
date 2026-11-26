@@ -34,7 +34,7 @@ M538A 4x2 switcher module schematic, cropped at right.
 - **Title block:** (344, 38)–(432, 54) mm: WBS WARD-BECK SYSTEMZ
 - **Wiring (first pass):** 118 connected wire groups from 723 runs
 
-Every curve, box, word and wire group: [19xx - 538-02-002 - 4x2 SWITCHER MODULE SCHEMATIC (2) (traced).json](../SCHEMATICS/19xx%20-%20538-02-002%20-%204x2%20SWITCHER%20MODULE%20SCHEMATIC%20(2)%20(traced).json) (the CAD file: `19xx - 538-02-002 - 4x2 SWITCHER MODULE SCHEMATIC (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 538-02-002 - 4x2 SWITCHER MODULE SCHEMATIC (2) (traced).json](../SCHEMATICS/19xx%20-%20538-02-002%20-%204x2%20SWITCHER%20MODULE%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 538-02-002 - 4x2 SWITCHER MODULE SCHEMATIC (2) (traced).dxf`).
 
 ## Full text
 

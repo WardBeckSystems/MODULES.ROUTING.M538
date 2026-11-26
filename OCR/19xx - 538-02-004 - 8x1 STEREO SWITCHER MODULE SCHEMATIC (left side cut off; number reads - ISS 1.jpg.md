@@ -33,7 +33,7 @@ M538C 8x1 stereo switcher schematic with show-through from the reverse page.
 - **Title block:** (338, 38)–(432, 52) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 135 connected wire groups from 710 runs; labelled ends: 26 mm → 620; 26 mm → 620; 10 mm → COMPONENT Designations:; 6 mm → CHAsSUS
 
-Every curve, box, word and wire group: [19xx - 538-02-004 - 8x1 STEREO SWITCHER MODULE SCHEMATIC (left side cut off; number reads - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20538-02-004%20-%208x1%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20(left%20side%20cut%20off%3B%20number%20reads%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 538-02-004 - 8x1 STEREO SWITCHER MODULE SCHEMATIC (left side cut off; number reads - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 538-02-004 - 8x1 STEREO SWITCHER MODULE SCHEMATIC (left side cut off; number reads - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20538-02-004%20-%208x1%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20%28left%20side%20cut%20off%3B%20number%20reads%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 538-02-004 - 8x1 STEREO SWITCHER MODULE SCHEMATIC (left side cut off; number reads - ISS 1 (traced).dxf`).
 
 ## Full text
 

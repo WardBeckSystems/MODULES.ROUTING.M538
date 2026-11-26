@@ -33,7 +33,7 @@ M538C 8x1 stereo switcher module functional diagram.
 - **Title block:** (343, 40)–(432, 57) mm: WBS WAAD-BECK systeN
 - **Wiring (first pass):** 72 connected wire groups from 216 runs; labelled ends: 414 mm → RIGHT; 317 mm → LEfT; 35 mm → LEfT, RIGHT
 
-Every curve, box, word and wire group: [19xx - 538-01-004 - 8x1 STEREO SWITCHER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20538-01-004%20-%208x1%20STEREO%20SWITCHER%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - 538-01-004 - 8x1 STEREO SWITCHER MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 538-01-004 - 8x1 STEREO SWITCHER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20538-01-004%20-%208x1%20STEREO%20SWITCHER%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - 538-01-004 - 8x1 STEREO SWITCHER MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

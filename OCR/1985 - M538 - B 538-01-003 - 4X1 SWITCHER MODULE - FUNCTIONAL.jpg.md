@@ -22,7 +22,7 @@ Wiki page: [M538](../../../../PAGES/M538.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 62 connected wire groups from 219 runs
 
-Every curve, box, word and wire group: [1985 - M538 - B 538-01-003 - 4X1 SWITCHER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M538%20-%20B%20538-01-003%20-%204X1%20SWITCHER%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1985 - M538 - B 538-01-003 - 4X1 SWITCHER MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M538 - B 538-01-003 - 4X1 SWITCHER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M538%20-%20B%20538-01-003%20-%204X1%20SWITCHER%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1985 - M538 - B 538-01-003 - 4X1 SWITCHER MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

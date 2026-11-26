@@ -23,7 +23,7 @@ Wiki page: [M538](../../../../PAGES/M538.md)
 - **Words (OCR):** 3 in 3 lines: 25 & · WW · Ul
 - **Wiring (first pass):** 106 connected wire groups from 579 runs; labelled ends: 16 mm → Ul; 16 mm → Ul; 8 mm → Ul
 
-Every curve, box, word and wire group: [1985 - M538 - B 538-02-004 - 8X1 STEREO SWITCHER MODULE - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M538%20-%20B%20538-02-004%20-%208X1%20STEREO%20SWITCHER%20MODULE%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M538 - B 538-02-004 - 8X1 STEREO SWITCHER MODULE - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M538 - B 538-02-004 - 8X1 STEREO SWITCHER MODULE - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M538%20-%20B%20538-02-004%20-%208X1%20STEREO%20SWITCHER%20MODULE%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M538 - B 538-02-004 - 8X1 STEREO SWITCHER MODULE - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
