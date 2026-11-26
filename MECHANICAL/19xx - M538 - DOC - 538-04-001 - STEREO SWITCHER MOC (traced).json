@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/ROUTING/M538/MECHANICAL/19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC.jpg",
+ "version": 1,
+ "trace": "_traces/cf409baf59d301d6.svg",
+ "sheet": {
+  "number": "538-04-001",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [866, 2000],
+  "mm": [187.0, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.7, 187.1, 424.6],
+ "outlines": {
+  "line": {"rings": 12, "straight": {"n": 1403, "mm": 2329.2}, "curved": {"n": 159, "mm": 281.2}},
+  "text": {"rings": 145, "straight": {"n": 1767, "mm": 2310.9}, "curved": {"n": 427, "mm": 720.5}},
+  "tb": {"rings": 105, "straight": {"n": 2828, "mm": 4402.5}, "curved": {"n": 319, "mm": 537.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [55.2, 88.7, 73.8, 97.6], "w": 18.6, "h": 8.9, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [8.0, 33.7, 54.6, 42.6], "w": 46.6, "h": 8.9, "from": "ring", "words": ["CKd"], "in_title_block": true},
+  {"mm": [8.0, 24.3, 54.6, 33.2], "w": 46.6, "h": 8.9, "from": "ring", "words": ["App"], "in_title_block": true},
+  {"mm": [74.9, 5.6, 169.7, 24.6], "w": 94.8, "h": 18.9, "from": "ring", "words": ["538-04-001"]},
+  {"mm": [55.5, 5.6, 74.0, 23.7], "w": 18.5, "h": 18.1, "from": "ring"},
+  {"mm": [8.0, 5.2, 54.6, 23.7], "w": 46.6, "h": 18.5, "from": "ring", "words": ["SCALE"]}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [51.6, 413.2, 61.1, 418.3], "text": "WBS"},
+   {"mm": [127.4, 90.9, 155.4, 97.9], "text": "REVISION"},
+   {"mm": [55.5, 90.2, 91.5, 96.7], "text": "ISSUE DATE"},
+   {"mm": [20.3, 69.3, 187.0, 80.1], "text": "WBS WAAD-BECK sybten"},
+   {"mm": [8.6, 54.0, 35.0, 61.7], "text": "DRN.BD"},
+   {"mm": [113.6, 49.7, 141.0, 59.3], "text": "M538"},
+   {"mm": [8.6, 44.3, 21.6, 51.2], "text": "ENG_"},
+   {"mm": [24.8, 38.4, 187.0, 51.9], "text": "KICW 8X1 STEREO SWITCHER MOD"},
+   {"mm": [9.3, 35.0, 23.3, 41.5], "text": "CKd"},
+   {"mm": [70.0, 28.1, 183.7, 40.3], "text": "FRONT PANEL LAYOUT"},
+   {"mm": [9.9, 26.1, 21.8, 31.4], "text": "App"},
+   {"mm": [21.2, 16.8, 40.6, 23.8], "text": "SCALE"},
+   {"mm": [180.1, 18.6, 186.5, 23.8], "text": "IS"},
+   {"mm": [90.9, 9.9, 152.4, 20.2], "text": "538-04-001"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [4.9, 8.1, 159.1, 427.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "REVISION",
+   "ISSUE DATE",
+   "WBS WAAD-BECK sybten",
+   "DRN.BD",
+   "M538",
+   "ENG_",
+   "KICW 8X1 STEREO SWITCHER MOD",
+   "CKd",
+   "FRONT PANEL LAYOUT",
+   "App",
+   "SCALE",
+   "538-04-001"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 538-04-001, size B (assumed) 187 × 432 mm, 866 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–187 mm across, 4–425 mm up",
+  "- **Outlines:** line 12 rings, 1,403 straight (2,329 mm) / 159 curved (281 mm); text 145 rings, 1,767 straight (2,311 mm) / 427 curved (720 mm); tb 105 rings, 2,828 straight (4,402 mm) / 319 curved (537 mm)",
+  "- **Closed boxes:** 6 (3 in the title block); named: 538-04-001; SCALE",
+  "- **Words (OCR):** 18 in 14 lines: WBS · REVISION · ISSUE DATE · WBS WAAD-BECK sybten · DRN.BD · M538 · ENG_ · KICW 8X1 STEREO SWITCHER MOD · CKd · FRONT PANEL LAYOUT · App · SCALE",
+  "- **Title block:** (5, 8)–(159, 427) mm: WBS · REVISION · ISSUE DATE · WBS WAAD-BECK sybten · DRN.BD · M538 · ENG_ · KICW 8X1 STEREO SWITCHER MOD · CKd · FRONT PANEL LAYOUT · App · SCALE · 538-04-001"
+ ]
+}

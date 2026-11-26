@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/ROUTING/M538/MECHANICAL/19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/ffce51b225411180.svg",
+ "sheet": {
+  "number": "B 538-04-001",
+  "title": "SWITCHER MODULES / MODULE LAYOUT",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1278],
+  "mm": [431.8, 275.9],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [20.3, 0.0, 428.3, 275.9],
+ "outlines": {
+  "line": {"rings": 221, "straight": {"n": 2842, "mm": 6594.7}, "curved": {"n": 351, "mm": 498.6}},
+  "text": {"rings": 98, "straight": {"n": 678, "mm": 745.6}, "curved": {"n": 166, "mm": 247.2}},
+  "tb": {"rings": 35, "straight": {"n": 267, "mm": 461.2}, "curved": {"n": 43, "mm": 65.3}}
+ },
+ "circles": [
+  {"c": [350.4, 124.3], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [218.2, 150.8], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [350.3, 177.5], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [350.2, 167.1], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [34.0, 108.8], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [33.7, 192.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5}
+ ],
+ "boxes": [
+  {"mm": [266.9, 83.1, 301.4, 218.3], "w": 34.5, "h": 135.2, "from": "ring"},
+  {"mm": [269.2, 83.8, 299.1, 217.6], "w": 29.9, "h": 133.9, "from": "ring"},
+  {"mm": [272.9, 94.6, 282.4, 207.0], "w": 9.5, "h": 112.5, "from": "ring"},
+  {"mm": [144.0, 193.7, 147.9, 200.8], "w": 3.9, "h": 7.1, "from": "ring"},
+  {"mm": [286.9, 194.7, 291.7, 200.4], "w": 4.7, "h": 5.6, "from": "ring"},
+  {"mm": [144.0, 180.5, 148.3, 187.6], "w": 4.3, "h": 7.1, "from": "ring"},
+  {"mm": [287.1, 181.4, 291.5, 187.2], "w": 4.3, "h": 5.8, "from": "ring"},
+  {"mm": [144.0, 167.1, 148.1, 174.2], "w": 4.1, "h": 7.1, "from": "ring"},
+  {"mm": [144.0, 153.9, 148.1, 160.8], "w": 4.1, "h": 6.9, "from": "ring"},
+  {"mm": [144.0, 140.8, 147.9, 147.7], "w": 3.9, "h": 6.9, "from": "ring"},
+  {"mm": [144.0, 127.4, 147.9, 134.5], "w": 3.9, "h": 7.1, "from": "ring", "in_title_block": true},
+  {"mm": [144.2, 100.8, 148.1, 108.0], "w": 3.9, "h": 7.1, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [58.1, 125.4, 65.0, 129.3], "text": "WBS"},
+   {"mm": [73.6, 125.4, 88.7, 129.8], "text": "14-.27"},
+   {"mm": [339.2, 40.8, 416.7, 45.6], "text": "WBS WARD-Beck BYSTEMB"},
+   {"mm": [361.4, 30.4, 391.0, 35.7], "text": "M538A/B/C"},
+   {"mm": [348.9, 25.0, 402.4, 30.6], "text": "Switcher MODULES"},
+   {"mm": [353.9, 19.2, 398.1, 24.5], "text": "MODULE LAYOUT"},
+   {"mm": [336.6, 11.7, 374.4, 16.9], "text": "B 538-04-001"},
+   {"mm": [404.6, 11.7, 418.6, 16.9], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [49.4, 35.2, 425.3, 134.8], "from": "title-block words (training set)", "text": ["WBS", "14-.27", "WBS WARD-Beck BYSTEMB"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout B 538-04-001, size B 432 × 276 mm, 2000 × 1278 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–428 mm across, 0–276 mm up",
+  "- **Outlines:** line 221 rings, 2,842 straight (6,595 mm) / 351 curved (499 mm); text 98 rings, 678 straight (746 mm) / 166 curved (247 mm); tb 35 rings, 267 straight (461 mm) / 43 curved (65.3 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 3.4 @ (350.4, 124.3), r 3.4 @ (218.2, 150.8), r 3.4 @ (350.3, 177.5), r 3.4 @ (350.2, 167.1)",
+  "- **Closed boxes:** 12 (2 in the title block)",
+  "- **Words (OCR):** 9 in 8 lines: WBS · 14-.27 · WBS WARD-Beck BYSTEMB · M538A/B/C · Switcher MODULES · MODULE LAYOUT · B 538-04-001 · ISS.1",
+  "- **Title block:** (49, 35)–(425, 135) mm: WBS · 14-.27 · WBS WARD-Beck BYSTEMB"
+ ]
+}
