@@ -4,14 +4,14 @@ Ward-Beck Systems M538, 1985|18. Wiki page: [M538 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 17 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 38 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 7 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 56 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 52 |
 
 ## Photos
 
@@ -30,7 +30,7 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1-U8rs_C2KI11vlIVHNOt2R1V5-w2CRkZ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1-U8rs_C2KI11vlIVHNOt2R1V5-w2CRkZ" width="240" alt="19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES.jpg"></a><br><sub>19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES · <a href="MECHANICAL/19xx%20-%20M538%20-%20DOC%20-%20538-03-057%20-%20FPEE%20FPOM%20SCRATCHES%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUDZQTHFEeVpIb1U/view?resourcekey=0-j-IJoXyRpMcUs1k18DFftQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUDZQTHFEeVpIb1U&resourcekey=0-j-IJoXyRpMcUs1k18DFftQ" width="240" alt="19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC.jpg"></a><br><sub>19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC · <a href="MECHANICAL/19xx%20-%20M538%20-%20DOC%20-%20538-04-001%20-%20STEREO%20SWITCHER%20MOC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg`, `19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1.jpg`
+Not on Google Drive yet: `1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg`
 
 ## Schematics
 
@@ -38,7 +38,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 Shared privately on Google Drive (opens after sign-in): [1985|18 · B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKYTZFSWxmc2FjWjA/view?resourcekey=0-6AjljAfUpr8WPV4kW1u_dA) · [1985|18 · B 538-01-003 - 4X1 SWITCHER MODULE - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKaWxGT25Jc3cxclE/view?resourcekey=0-yalTV5Ps7eWfhnoHrTWuUg) · [1985|18 · B 538-02-002 - 4X2 SWITCHER MODULE - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKd08xd3RvU1ZwaE0/view?resourcekey=0-gjTYq1-z9slnUF7jyGtThQ) · [1985|18 · B 538-02-003 - 4X1 SWITCHER MODULE - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKYlVNaUJrTEpMVVk/view?resourcekey=0-rOJuhAC1k7JpYmRGmT7kbA) · [1985|18 · B 538-02-004 - 8X1 STEREO SWITCHER MODULE - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKSGJsOEROVk50TzQ/view?resourcekey=0-QzwOt3zHsWs7KoJbJ5RfFA)
 
-Not on Google Drive yet: `1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1.png`, `19xx - 538-01-004 - 8x1 STEREO SWITCHER MODULE FUNCTIONAL.jpg`, `19xx - 538-02-002 - 4x2 SWITCHER MODULE SCHEMATIC (2).jpg`, `19xx - 538-02-004 - 8x1 STEREO SWITCHER MODULE SCHEMATIC (left side cut off; number reads - ISS 1.jpg`
+Not on Google Drive yet: `1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1.png`
 
 ## Manuals and documents
 
