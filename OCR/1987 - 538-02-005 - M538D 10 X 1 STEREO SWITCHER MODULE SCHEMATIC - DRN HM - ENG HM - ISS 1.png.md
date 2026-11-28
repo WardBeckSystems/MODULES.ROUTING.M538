@@ -1,5 +1,5 @@
 # 1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1.png
-Wiki page: [M538](../../../../PAGES/M538.md)
+Wiki page: [M538](../)
 
 
 - **Year:** 1987 (title block date)

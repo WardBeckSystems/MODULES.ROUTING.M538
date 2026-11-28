@@ -1,5 +1,5 @@
 # 1985 - M538 - B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL.jpg
-Wiki page: [M538](../../../../PAGES/M538.md)
+Wiki page: [M538](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

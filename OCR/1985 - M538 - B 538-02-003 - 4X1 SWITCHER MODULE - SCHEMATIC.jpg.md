@@ -1,5 +1,5 @@
 # 1985 - M538 - B 538-02-003 - 4X1 SWITCHER MODULE - SCHEMATIC.jpg
-Wiki page: [M538](../../../../PAGES/M538.md)
+Wiki page: [M538](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

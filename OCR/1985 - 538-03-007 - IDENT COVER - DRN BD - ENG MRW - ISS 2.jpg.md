@@ -1,5 +1,5 @@
 # 1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg
-Wiki page: [M538](../../../../PAGES/M538.md)
+Wiki page: [M538](../)
 
 
 - **Year:** 1985 (title block date)
