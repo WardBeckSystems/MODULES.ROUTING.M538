@@ -4,13 +4,12 @@ Ward-Beck Systems M538, 1985|18. Wiki page: [M538 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 17 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 38 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 7 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 33 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 37 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 52 |
 
 ## Photos
@@ -30,8 +29,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1-U8rs_C2KI11vlIVHNOt2R1V5-w2CRkZ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1-U8rs_C2KI11vlIVHNOt2R1V5-w2CRkZ" width="240" alt="19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES.jpg"></a><br><sub>19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES · <a href="MECHANICAL/19xx%20-%20M538%20-%20DOC%20-%20538-03-057%20-%20FPEE%20FPOM%20SCRATCHES%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUDZQTHFEeVpIb1U/view?resourcekey=0-j-IJoXyRpMcUs1k18DFftQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUDZQTHFEeVpIb1U&resourcekey=0-j-IJoXyRpMcUs1k18DFftQ" width="240" alt="19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC.jpg"></a><br><sub>19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC · <a href="MECHANICAL/19xx%20-%20M538%20-%20DOC%20-%20538-04-001%20-%20STEREO%20SWITCHER%20MOC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M538.stl`](MECHANICAL/M538.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M538)
@@ -45,8 +42,6 @@ Not on Google Drive yet: `1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - I
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 Shared privately on Google Drive (opens after sign-in): [1985|18 · B 538-01-002 - 4X2 SWITCHER MODULE - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKYTZFSWxmc2FjWjA/view?resourcekey=0-6AjljAfUpr8WPV4kW1u_dA) · [1985|18 · B 538-01-003 - 4X1 SWITCHER MODULE - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKaWxGT25Jc3cxclE/view?resourcekey=0-yalTV5Ps7eWfhnoHrTWuUg) · [1985|18 · B 538-02-002 - 4X2 SWITCHER MODULE - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKd08xd3RvU1ZwaE0/view?resourcekey=0-gjTYq1-z9slnUF7jyGtThQ) · [1985|18 · B 538-02-003 - 4X1 SWITCHER MODULE - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKYlVNaUJrTEpMVVk/view?resourcekey=0-rOJuhAC1k7JpYmRGmT7kbA) · [1985|18 · B 538-02-004 - 8X1 STEREO SWITCHER MODULE - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKSGJsOEROVk50TzQ/view?resourcekey=0-QzwOt3zHsWs7KoJbJ5RfFA)
-
-Not on Google Drive yet: `1987 - 538-02-005 - M538D 10 X 1 STEREO SWITCHER MODULE SCHEMATIC - DRN HM - ENG HM - ISS 1.png`
 
 ## Manuals and documents
 
@@ -79,7 +74,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 538-02-002 - 4x2 SWITCHER MODULE SCHEMATIC (2).kicad_sch](KICAD/19xx%20-%20538-02-002%20-%204x2%20SWITCHER%20MODULE%20SCHEMATIC%20(2).kicad_sch)
 - [19xx - 538-02-004 - 8x1 STEREO SWITCHER MODULE SCHEMATIC (left side cut off; number reads - ISS 1.kicad_sch](KICAD/19xx%20-%20538-02-004%20-%208x1%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20(left%20side%20cut%20off%3B%20number%20reads%20-%20ISS%201.kicad_sch)
 - [M538.kicad_sym](KICAD/M538.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
